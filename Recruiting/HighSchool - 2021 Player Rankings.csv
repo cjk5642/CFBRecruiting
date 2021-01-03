@@ -1,0 +1,109 @@
+ranking,name,highSchool,position,height,weight,stars,rating,college
+1,J.T. Tuimoloau,Eastside Catholic (Sammamish	 WA),DT,6-4.5,277,5,1.0000,uncommitted
+2,Garrett Dellinger,Clarkston (Clarkston	 MI),OT,6-6,250,5,0.9996,uncommitted
+3,Jack Sawyer,Pickerington North (Pickerington	 OH),SDE,6-5,219,5,0.9992,uncommitted
+4,Bryce Langston,Vanguard (Ocala	 FL),WDE,6-3,212,5,0.9988,Florida
+5,Quintin Somerville,Saguaro (Scottsdale	 AZ),SDE,6-3,210,5,0.9984,uncommitted
+6,Preston Stone,Parish Episcopal School (Dallas	 TX),DUAL,6-2,185,5,0.9980,uncommitted
+7,Isaiah Johnson,Bluefield (Bluefield	 WV),CB,6-0,177,5,0.9976,uncommitted
+8,JC Latham,Catholic Memorial (Waukesha	 WI),SDE,6-6,270,5,0.9972,uncommitted
+9,Julian Nixon,Centennial (Roswell	 GA),WR,6-4,205,5,0.9968,uncommitted
+10,Rocco Spindler,Clarkston (Clarkston	 MI),DT,6-4,250,5,0.9964,uncommitted
+11,Kingsley Suamataia,Orem (Orem	 UT),OT,6-5,288,5,0.9960,uncommitted
+12,Tony Grimes,Princess Anne (Virginia Beach	 VA),CB,6-0,180,5,0.9956,uncommitted
+13,Sam Huard,Kennedy Catholic (Burien	 WA),PRO,6-2,175,5,0.9952,Washington
+14,Donell Harris,Booker T. Washington (Miami	 FL),WDE,6-5,200,5,0.9948,Miami
+15,James Williams,American Heritage (Opa Locka	 FL),S,6-3,200,5,0.9944,Miami
+16,Marvin Harrison Jr.,St. Joseph's Prep School (Philadelphia	 PA),WR,6-3.5,174,5,0.9940,uncommitted
+17,Katron Evans,Granby (Norfolk	 VA),DT,6-4,265,5,0.9936,uncommitted
+18,Micah Morris,Camden County (Kingsland	 GA),OT,6-3.5,286,5,0.9932,uncommitted
+19,Payton Page,Dudley (Greensboro	 NC),DT,6-4,315,5,0.9928,uncommitted
+20,Troy Franklin,Menlo-Atherton (Menlo Park	 CA),WR,6-2,170,5,0.9924,uncommitted
+21,Ma'a Gaoteote,Faith Lutheran (Las Vegas	 NV),OLB,6-2,220,5,0.9920,USC
+22,Donovan Jackson,Episcopal (Bellaire	 TX),OT,6-3.5,305,5,0.9916,uncommitted
+23,Kendrick Blackshire,Horn (Mesquite	 TX),ILB,6-2,250,5,0.9912,uncommitted
+24,Dominic Bass,Phillips Academy (Chicago	 IL),DT,6-4,250,5,0.9908,uncommitted
+25,Reuben Fatheree,Foster (Richmond	 TX),OT,6-8,300,5,0.9904,uncommitted
+26,Damon Payne,Belleville (Belleville	 MI),OG,6-4,255,5,0.9900,uncommitted
+27,Hayden Conner,Taylor (Katy	 TX),OT,6-5.5,298,5,0.9896,uncommitted
+28,A.J. Kirk,Dublin Coffman (Columbus	 OH),S,6-0,200,5,0.9892,uncommitted
+29,Bryce Foster,Taylor (Katy	 TX),OT,6-5,315,5,0.9888,uncommitted
+30,Ga'Quincy McKinstry,Pinson Valley (Pinson	 AL),CB,6-1,175,5,0.9884,uncommitted
+31,Terrence Ferguson,Peach County (Fort Valley	 GA),OT,6-4,270,5,0.9880,uncommitted
+32,Shadrach Banks,North Shore (Houston	 TX),ATH,6-0,200,5,0.9876,uncommitted
+33,Zeiqui Lawton,South Charleston (Charleston	 WV),SDE,6-2,226,5,0.9872,uncommitted
+34,Brayden Wood,Fairview (Boulder	 CO),WDE,6-3,250,5,0.9868,uncommitted
+35,Corey Collier,Miami Palmetto (Miami	 FL),CB,6-2,170,5,0.9864,uncommitted
+36,Will Shipley,Weddington (Matthews	 NC),APB,5-11,193,5,0.9860,uncommitted
+37,Gavin Blackwell,Sun Valley (Monroe	 NC),WR,5-11,170,5,0.9856,uncommitted
+38,Emeka Egbuka,Steilacoom (Steilacoom	 WA),ATH,6-1,190,5,0.9852,uncommitted
+39,Landon Tengwall,Our Lady Good Counsel HS (Olney	 MD),OT,6-6,300,5,0.9848,uncommitted
+40,KJ Liggins,Coppell (Coppell	 TX),ATH,5-11,180,5,0.9844,uncommitted
+41,Jason Marshall,Miami Palmetto (Miami	 FL),CB,6-2,180,5,0.9840,uncommitted
+42,Landon Jackson,Pleasant Grove (Texarkana	 TX),WDE,6-5,215,5,0.9836,uncommitted
+43,Jacorey Brooks,Booker T. Washington (Miami	 FL),WR,6-3,170,4,0.9832,uncommitted
+44,Amari Daniels,Miami Central (Miami	 FL),APB,5-8,186,4,0.9828,uncommitted
+45,Julien Simon,Lincoln (Tacoma	 WA),ATH,6-2,221,4,0.9824,uncommitted
+46,Will Latu,Bethel (Spanaway	 WA),S,6-2,221,4,0.9819,uncommitted
+47,Camar Wheaton,Lakeview Centennial (Garland	 TX),RB,6-0,190,4,0.9815,uncommitted
+48,Tim Keenan,Ramsay (Birmingham	 AL),DT,6-2,285,4,0.9811,uncommitted
+49,Tyler Buchner,The Bishop's School (La Jolla	 CA),PRO,6-2,200,4,0.9807,uncommitted
+50,Kobe Paysour,Kings Mountain (Kings Mountain	 NC),WR,6-1,175,4,0.9803,uncommitted
+51,Seven McGee,East (ROCHESTER	 NY),RB,5-9,175,4,0.9799,Oregon
+52,Keanu Williams,Clovis (Clovis	 CA),SDE,6-5,250,4,0.9795,uncommitted
+53,Antonio Harmon,Kosciusko (Kosciusko	 MS),WR,6-3,189,4,0.9791,uncommitted
+54,Jake Garcia,Narbonne (Harbor City	 CA),PRO,6-2,185,4,0.9787,uncommitted
+55,Landyn Watson,Hutto (Hutto	 TX),WDE,6-3,230,4,0.9783,uncommitted
+56,Ethan Downs,Weatherford (Weatherford	 OK),WDE,6-4,222,4,0.9779,uncommitted
+57,Quincy Brown,Destrehan (Destrehan	 LA),WR,6-3,175,4,0.9775,uncommitted
+58,Jaquez Smith,Hapeville Charter (ATLANTA	 GA),S,6-1,190,4,0.9771,uncommitted
+59,Beaux Collins,St. John Bosco (Bellflower	 CA),WR,6-3,185,4,0.9767,uncommitted
+60,Trevonte Rucker,Vanguard (Ocala	 FL),WR,5-11.5,157,4,0.9763,Florida
+61,Derrick Davis Jr.,Gateway (Monroeville	 PA),S,6-0,176,4,0.9759,uncommitted
+62,Laurence Seymore,Miami Central (Miami	 FL),OG,6-0.5,299,4,0.9755,Miami
+63,Trenton Adkins,Ridgeview (Clintwood	 VA),ATH,6-1,195,4,0.9751,uncommitted
+64,Weston Franklin,Wayne County (Jesup	 GA),OG,6-4,265,4,0.9747,uncommitted
+65,Jayden Ballard,Washington (Massillon	 OH),WR,6-1.5,164,4,0.9743,uncommitted
+66,Gabe Stephens,Mountain Island Charter (Mount Holly	 NC),CB,6-2,185,4,0.9739,uncommitted
+67,Evan Pryor,William Amos Hough (Cornelius	 NC),RB,5-11,175,4,0.9735,uncommitted
+68,Jack Hollifield,Shelby (Shelby	 NC),ILB,6-3,225,4,0.9731,uncommitted
+69,Donovan Edwards,West Bloomfield (West Bloomfield	 MI),RB,5-11,190,4,0.9727,uncommitted
+70,Jonathan Jefferson,Douglas County (Douglasville	 GA),SDE,6-3,215,4,0.9723,uncommitted
+71,Gage Wilcox,Jefferson (Tampa	 FL),TE,6-4,215,4,0.9719,uncommitted
+72,Dacari Collins,McEachern (Powder Springs	 GA),WR,6-3,201,4,0.9715,uncommitted
+73,Armoni Goodwin,Hewitt-Trussville (Trussville	 AL),RB,5-8,190,4,0.9711,uncommitted
+74,Theodore Knox,Southern University Lab School (Baton Rouge	 LA),WR,5-11,175,4,0.9707,uncommitted
+75,Chaz Chambliss,Carrollton (Carrollton	 GA),OLB,6-3,220,4,0.9703,uncommitted
+76,Mason Tufaga,St. Louis (Honolulu	 HI),OLB,6-1,180,4,0.9699,uncommitted
+77,Latrell McCutchin,LBJ (Austin	 TX),CB,6-0,165,4,0.9695,uncommitted
+78,Jaylen Anderson,Perry (Perry	 OH),RB,6-1,210,4,0.9691,uncommitted
+79,Branden Jennings,Sandalwood (Jacksonville	 FL),OLB,6-3,220,4,0.9687,uncommitted
+80,Eli Sutton,Brentwood Academy (Brentwood	 TN),OT,6-6,265,4,0.9683,uncommitted
+81,Quenton Barnes,Cane Ridge (Antioch	 TN),WR,6-2,175,4,0.9679,uncommitted
+82,Jake Rubley,Highlands Ranch (Littleton	 CO),PRO,6-3,195,4,0.9675,uncommitted
+83,Tyreak Sapp,St. Thomas Aquinas (Fort Lauderdale	 FL),SDE,6-2,255,4,0.9671,Florida
+84,Steven Ortiz,Desert Edge (Goodyear	 AZ),CB,5-11,170,4,0.9667,uncommitted
+85,Jahzion Harris,Erasmus Hall (Brooklyn	 NY),WDE,6-4,198,4,0.9663,uncommitted
+86,Iverson Celestine,Fontainebleau (Mandeville	 LA),RB,5-10,190,4,0.9659,uncommitted
+87,Eli Stowers,Guyer (Denton	 TX),DUAL,6-4,205,4,0.9655,uncommitted
+88,Blake Fisher,Avon (Avon	 IN),OT,6-6,300,4,0.9651,uncommitted
+89,Brock Vandagriff,Prince Avenue Christian School (Bogart	 GA),PRO,6-2.5,188,4,0.9647,uncommitted
+90,Anthony Beavers Jr.,Narbonne (Harbor City	 CA),ATH,6-2,195,4,0.9643,uncommitted
+91,Kamar Wilcoxson,Cedar Grove (Ellenwood	 GA),ATH,6-2,185,4,0.9639,Florida
+92,Micah Crowell,East Forsyth (Kernersville	 NC),WR,6-2,205,4,0.9635,uncommitted
+93,Chamon Metayer,North Miami (Miami	 FL),OLB,6-3,220,4,0.9631,uncommitted
+94,Marcus Tate,University School (Fort Lauderdale	 FL),OT,6-5,265,4,0.9627,uncommitted
+95,Deion Colzie,Athens Academy (Athens	 GA),WR,6-4,180,4,0.9623,uncommitted
+96,Kamonte Grimes,Palmetto Ridge (Naples	 FL),ATH,6-2,185,4,0.9619,uncommitted
+97,Rodney Hammond,B. T. Washington (Norfolk	 VA),ATH,5-10,170,4,0.9615,uncommitted
+98,Cristian Dixon,Diamond Ranch (Pomona	 CA),WR,6-3,180,4,0.9611,uncommitted
+99,Brody Wisecarver,DeSmet (Saint Louis	 MO),OT,6-6,270,4,0.9607,uncommitted
+100,Erick Cade,Braswell (Denton	 TX),OT,6-7,290,4,0.9603,uncommitted
+101,Korey Foreman,Centennial (Corona	 CA),SDE,6-4,245,4,0.8900,uncommitted
+102,Ethan Calvert,Oaks Christian (Westlake Village	 CA),ATH,6-1,215,3,0.8800,uncommitted
+103,Raesjon Davis,Mater Dei (Santa Ana	 CA),OLB,6-1,210,3,0.8800,uncommitted
+104,Quaydarius Davis,Skyline (Dallas	 TX),ATH,5-11,186,3,0.8700,SMU
+105,Bram Walden,Saguaro (Scottsdale	 AZ),OT,6-4,270,3,0.8500,uncommitted
+106,Jaden Genova,J Serra Catholic (San Juan Capistrano	 CA),OLB,6-0,200,3,0.8200,uncommitted
+107,Jeffrey Bassa,Kearns (Salt Lake City	 UT),S,6-1,190,3,0.8000,uncommitted
+108,Branden Alvarez,Centennial (Corona	 CA),WR,5-10,180,3,0.8000,uncommitted
